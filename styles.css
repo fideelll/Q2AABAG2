@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.overall{
+    width: 50vw;
+    border-radius: 500px;
+    border:  black 1px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 250px;
+    margin-left: 500px;
+    height: 450px;
+    
+}
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
+
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+.sedan{
+    
+    background-color: hsl(31, 77%, 52%);
+
+}
+
+.suvs{
+ 
+    background-color: hsl(184, 100%, 22%);
+    
+}
+
+.luxury{
+    background-color: hsl(179, 100%, 13%);
+
+}
+
+.overall img{
+    padding: 30px;
+}
+
+.overall h1{
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    font-family: 'Big Shoulders Display', sans-serif;
+   
+   
+}
+
+.overall h4{
+    font-weight: 400;
+    color: white;
+    padding: 20px;
+    font-family: 'Lexend Deca', sans-serif;
+    }
+
+
+.butttonsd{
+    border-radius: 15px;
+    background-color: white;
+    border: none;
+   text-decoration: none;
+    text-align: center;
+    color: hsl(31, 77%, 52%);
+    padding:10px;
+    display: block;
+    margin: 20px; 
+    max-width: 100px;
+}
+
+
+
+.butttonsv{
+    border-radius: 15px;
+    background-color: white;
+    border: none;
+   text-decoration: none;
+    text-align: center;
+    padding:10px;
+    color:  hsl(184, 100%, 22%);
+    margin: 20px;
+    display: block;
+    max-width: 100px;
+}
+
+
+
+.butttonslx{
+    border-radius: 15px;
+    background-color: white;
+    border: none;
+   text-decoration: none;
+    text-align: center;
+    color: hsl(179, 100%, 13%);
+    padding:10px;
+    margin: 20px; 
+    display: block;
+    max-width: 100px;
+}
+
+
